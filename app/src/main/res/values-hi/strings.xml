@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Test</string>
+    <string name="edit_message">एक संदेश दर्ज करें</string>
+    <string name="button_send">भेजने</string>
+</resources>
